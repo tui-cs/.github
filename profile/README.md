@@ -10,4 +10,11 @@ A presentation of gui.cs was part of the [Retro.NET](https://channel9.msdn.com/E
 
 The other projects in this organization are either dependencies of Terminal.Gui or related offshoots.
 
+## Projects
+
+- **[Terminal.Gui](https://github.com/tui-cs/Terminal.Gui)** — the cross-platform TUI toolkit for .NET (v2).
+- **[clet](https://github.com/tui-cs/clet)** — CLI-lets: rich TUI prompts with consistent JSON output and clean exit codes, for humans *and* AI agents.
+- **[cli](https://github.com/tui-cs/cli)** — a library that exposes Terminal.Gui views as scriptable CLI commands with typed JSON output, POSIX exit codes, and AI-agent discoverability.
+- **[PSTui](https://github.com/tui-cs/PSTui)** — PowerShell TUI cmdlets (`Out-ConsoleGridView`/`ocgv`, `Show-ObjectTree`/`shot`), built on Terminal.Gui v2. The community continuation of `Microsoft.PowerShell.ConsoleGuiTools` — `Install-Module PSTui`.
+
 The maintainers welcome contributions from the community.
